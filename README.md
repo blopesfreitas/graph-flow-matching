@@ -36,6 +36,6 @@ This is a learning prototype. The velocity field is an MLP over a fixed-size adj
 
 ## Running it
 
-The full implementation is in `graph_flow_matching_v8.py` (readable directly on GitHub).
+The full implementation is in `graph_flow_matching.py` (readable directly on GitHub).
 
-To run it with outputs, open `Graph_Flow_Matching_v8.ipynb` in [Google Colab](https://colab.research.google.com/) (GPU runtime recommended), or view a rendered copy via [nbviewer](https://nbviewer.org/). GitHub's inline notebook preview sometimes fails to load; that's a GitHub rendering quirk, not a problem with the notebook.
+To run it with outputs, open `graph_flow_matching_colab.ipynb` in [Google Colab](https://colab.research.google.com/) (GPU runtime recommended), or view a rendered copy via [nbviewer](https://nbviewer.org/). GitHub's inline notebook preview sometimes fails to load; that's a GitHub rendering quirk, not a problem with the notebook.
